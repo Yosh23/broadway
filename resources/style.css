@@ -5,7 +5,7 @@ body {
 
 .header {
     background-image: url("photos/backgroundphoto.png");
-    background-repeat: round;
+    background-repeat: no-repeat;
     color: white;
 }
 
