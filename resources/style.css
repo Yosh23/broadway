@@ -21,3 +21,36 @@ body {
 .header a {
     color: white;
 }
+
+.process h2 {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.process h3 {
+    font-size: 23px;
+    font-weight: bold;
+}
+
+.process p {
+    font-size: 14px;
+}
+
+.subheading {
+    color: white;
+    background-image: url("photos/backgroundphoto.png");
+    font-size: 23px;
+    font-weight: bold;
+    background-repeat: no-repeat;
+}
+
+.footer {
+    text-align: left;
+    background-color: dimgrey;
+    font-size: 11px;
+    color: white;
+}
+
+.footer a {
+    color: white;
+}
